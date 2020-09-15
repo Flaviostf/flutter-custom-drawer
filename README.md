@@ -1,6 +1,6 @@
 # custom_drawer
 
-A new Flutter project.
+Custom Drawer
 
 ## Getting Started
 
