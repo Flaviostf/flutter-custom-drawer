@@ -2,6 +2,9 @@
 
 Custom Drawer
 
+<img src="https://github.com/Flaviostf/flutter-custom-drawer/blob/master/images/Captura%20de%20Tela%202020-09-15%20%C3%A0s%2014.17.35.png" width="40%" height="40%"/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
